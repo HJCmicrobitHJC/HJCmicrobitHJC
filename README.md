@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Harry
+- 👀 I’m interested in Computers, HTML, C++ and more
+- 🌱 I’m currently learning Python
